@@ -22,3 +22,4 @@ https://medium.com/javascript-in-plain-english/how-to-build-a-simple-task-manage
 ## Future work
 
 - Integrate the whole application with Laravel (`Edit`: **DONE**, check it out here: https://github.com/siljanoskam/task-manager-laravel-react)
+"# react-task-manager-app-master" 
